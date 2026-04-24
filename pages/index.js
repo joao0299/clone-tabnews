@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Git é mt bom
+    return <h1>Miguelzinho daora
     </h1>
 }
 
